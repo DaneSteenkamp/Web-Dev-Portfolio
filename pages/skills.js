@@ -1,4 +1,4 @@
-import Link from "next/Link";
+import Link from "next/link";
 
 import Layout from "../components/Mylayout";
 import Skills_info from "../components/Skills_info";

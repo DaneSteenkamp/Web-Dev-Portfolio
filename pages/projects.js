@@ -1,4 +1,4 @@
-import Link from "next/Link";
+import Link from "next/link";
 
 import Layout from "../components/Mylayout";
 import Project_info from "../components/Projects_info";
