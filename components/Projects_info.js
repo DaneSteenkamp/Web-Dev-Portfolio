@@ -21,7 +21,7 @@ const Project_info = () => (
       </li>
       <br></br>
       <li>
-        <Link href="https://github.com/DaneSteenkamp/Game">
+        <Link href="https://game-danesteenkampdesigner-gmailcom.vercel.app/">
           <a>
             <u>Project 2 Memory Game</u>
           </a>
